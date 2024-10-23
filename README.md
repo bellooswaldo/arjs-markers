@@ -2,7 +2,7 @@
 
 This is a project of AR using AR.js y A-Frame.
 
-pattern-LOGO-STB-ACADEMY-NEGRO-VERDE.png
+!pattern-LOGO-STB-ACADEMY-NEGRO-VERDE.png
 
 ## Description
 
