@@ -13,7 +13,7 @@ This project shows how to use a custom marker instead of the default "hiro" mark
 1. Upload your image to AR.js Marker Training to generate a `.patt` file.
 2. Upload the `.patt` file to your GitHub repository.
 3. Use the URL of the `.patt` file in your CodePen project.
-## Código de Ejemplo
+## Example Code
 
 ```html
 <!DOCTYPE html>
